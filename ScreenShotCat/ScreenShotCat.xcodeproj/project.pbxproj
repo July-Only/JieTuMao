@@ -138,7 +138,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		3E6AB119228D4E8F00A1715B /* Image */ = {
+		3E6AB119228D4E8F00A1715B /* Images */ = {
 			isa = PBXGroup;
 			children = (
 				3E6AB137228D550D00A1715B /* 路径 1.png */,
@@ -150,7 +150,7 @@
 				3E6AB11D228D4E9D00A1715B /* 3.jpg */,
 				3E6AB11A228D4E9D00A1715B /* 4.jpg */,
 			);
-			path = Image;
+			path = Images;
 			sourceTree = "<group>";
 		};
 		7476C4D822872A2C00176179 = {
@@ -178,7 +178,7 @@
 		7476C4E322872A2C00176179 /* ScreenShotCat */ = {
 			isa = PBXGroup;
 			children = (
-				3E6AB119228D4E8F00A1715B /* Image */,
+				3E6AB119228D4E8F00A1715B /* Images */,
 				7476C51A22872B2000176179 /* Main */,
 				7476C51E22872B2000176179 /* Home(首页) */,
 				7476C52222872B2000176179 /* MailList(通讯录) */,
