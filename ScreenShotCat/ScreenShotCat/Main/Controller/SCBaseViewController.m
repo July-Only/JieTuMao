@@ -22,7 +22,7 @@
     // Do any additional setup after loading the view.
     self.navigationItem.leftBarButtonItem  = [UIBarButtonItem leftItemWithImage:@"left_black" higthImage:@"" title:nil target:self action:@selector(NavBack)];
     
-//    self.view.backgroundColor = CString(BgColor);
+    self.view.backgroundColor = [UIColor whiteColor];
 }
 
 - (UIImageView *)findHairlineImageViewUnder:(UIView *)view {
