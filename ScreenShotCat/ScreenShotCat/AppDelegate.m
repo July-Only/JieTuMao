@@ -21,6 +21,7 @@
     // Override point for customization after application launch.
     
     SCBaseTabBarController *vc = [[SCBaseTabBarController alloc] init];
+     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     self.window.rootViewController = vc;
     self.tabBar = vc;
     [self.window makeKeyAndVisible];

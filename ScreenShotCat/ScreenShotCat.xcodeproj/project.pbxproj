@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E6AB118228D4BF500A1715B /* ATCarouselView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E6AB117228D4BF500A1715B /* ATCarouselView.m */; };
+		3E6AB11F228D4E9D00A1715B /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3E6AB11A228D4E9D00A1715B /* 4.jpg */; };
+		3E6AB120228D4E9D00A1715B /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3E6AB11B228D4E9D00A1715B /* 2.jpg */; };
+		3E6AB121228D4E9D00A1715B /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3E6AB11C228D4E9D00A1715B /* 1.jpg */; };
+		3E6AB122228D4E9D00A1715B /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3E6AB11D228D4E9D00A1715B /* 3.jpg */; };
+		3E6AB123228D4E9D00A1715B /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3E6AB11E228D4E9D00A1715B /* 0.jpg */; };
+		3E6AB127228D4F2500A1715B /* SCHomeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E6AB125228D4F2500A1715B /* SCHomeCell.m */; };
+		3E6AB128228D4F2500A1715B /* SCHomeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3E6AB126228D4F2500A1715B /* SCHomeCell.xib */; };
+		3E6AB138228D550D00A1715B /* 路径 1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E6AB135228D550D00A1715B /* 路径 1@3x.png */; };
+		3E6AB139228D550D00A1715B /* 路径 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E6AB136228D550D00A1715B /* 路径 1@2x.png */; };
+		3E6AB13A228D550D00A1715B /* 路径 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E6AB137228D550D00A1715B /* 路径 1.png */; };
 		3EA0A202228AA2F600666630 /* UIView+HNExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EA0A201228AA2F600666630 /* UIView+HNExtension.m */; };
 		7476C4E622872A2C00176179 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7476C4E522872A2C00176179 /* AppDelegate.m */; };
 		7476C4EC22872A2C00176179 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7476C4EA22872A2C00176179 /* Main.storyboard */; };
@@ -45,6 +56,19 @@
 /* Begin PBXFileReference section */
 		3AB32FC1609B07DF2199FF28 /* Pods-ScreenShotCat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScreenShotCat.release.xcconfig"; path = "Pods/Target Support Files/Pods-ScreenShotCat/Pods-ScreenShotCat.release.xcconfig"; sourceTree = "<group>"; };
 		3DD97CC3CA8C3F6DD4433082 /* libPods-ScreenShotCat.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ScreenShotCat.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E6AB116228D4BF500A1715B /* ATCarouselView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ATCarouselView.h; sourceTree = "<group>"; };
+		3E6AB117228D4BF500A1715B /* ATCarouselView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ATCarouselView.m; sourceTree = "<group>"; };
+		3E6AB11A228D4E9D00A1715B /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		3E6AB11B228D4E9D00A1715B /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		3E6AB11C228D4E9D00A1715B /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		3E6AB11D228D4E9D00A1715B /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		3E6AB11E228D4E9D00A1715B /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		3E6AB124228D4F2500A1715B /* SCHomeCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SCHomeCell.h; sourceTree = "<group>"; };
+		3E6AB125228D4F2500A1715B /* SCHomeCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SCHomeCell.m; sourceTree = "<group>"; };
+		3E6AB126228D4F2500A1715B /* SCHomeCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SCHomeCell.xib; sourceTree = "<group>"; };
+		3E6AB135228D550D00A1715B /* 路径 1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "路径 1@3x.png"; sourceTree = "<group>"; };
+		3E6AB136228D550D00A1715B /* 路径 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "路径 1@2x.png"; sourceTree = "<group>"; };
+		3E6AB137228D550D00A1715B /* 路径 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "路径 1.png"; sourceTree = "<group>"; };
 		3EA0A200228AA2F500666630 /* UIView+HNExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+HNExtension.h"; sourceTree = "<group>"; };
 		3EA0A201228AA2F600666630 /* UIView+HNExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+HNExtension.m"; sourceTree = "<group>"; };
 		7476C4E122872A2C00176179 /* ScreenShotCat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScreenShotCat.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -114,6 +138,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		3E6AB119228D4E8F00A1715B /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				3E6AB137228D550D00A1715B /* 路径 1.png */,
+				3E6AB136228D550D00A1715B /* 路径 1@2x.png */,
+				3E6AB135228D550D00A1715B /* 路径 1@3x.png */,
+				3E6AB11E228D4E9D00A1715B /* 0.jpg */,
+				3E6AB11C228D4E9D00A1715B /* 1.jpg */,
+				3E6AB11B228D4E9D00A1715B /* 2.jpg */,
+				3E6AB11D228D4E9D00A1715B /* 3.jpg */,
+				3E6AB11A228D4E9D00A1715B /* 4.jpg */,
+			);
+			path = Image;
+			sourceTree = "<group>";
+		};
 		7476C4D822872A2C00176179 = {
 			isa = PBXGroup;
 			children = (
@@ -139,6 +178,7 @@
 		7476C4E322872A2C00176179 /* ScreenShotCat */ = {
 			isa = PBXGroup;
 			children = (
+				3E6AB119228D4E8F00A1715B /* Image */,
 				7476C51A22872B2000176179 /* Main */,
 				7476C51E22872B2000176179 /* Home(首页) */,
 				7476C52222872B2000176179 /* MailList(通讯录) */,
@@ -277,6 +317,11 @@
 		7476C52122872B2000176179 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				3E6AB116228D4BF500A1715B /* ATCarouselView.h */,
+				3E6AB117228D4BF500A1715B /* ATCarouselView.m */,
+				3E6AB124228D4F2500A1715B /* SCHomeCell.h */,
+				3E6AB125228D4F2500A1715B /* SCHomeCell.m */,
+				3E6AB126228D4F2500A1715B /* SCHomeCell.xib */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -427,8 +472,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E6AB11F228D4E9D00A1715B /* 4.jpg in Resources */,
+				3E6AB128228D4F2500A1715B /* SCHomeCell.xib in Resources */,
 				7476C4F122872A2D00176179 /* LaunchScreen.storyboard in Resources */,
+				3E6AB13A228D550D00A1715B /* 路径 1.png in Resources */,
+				3E6AB120228D4E9D00A1715B /* 2.jpg in Resources */,
+				3E6AB121228D4E9D00A1715B /* 1.jpg in Resources */,
+				3E6AB138228D550D00A1715B /* 路径 1@3x.png in Resources */,
+				3E6AB123228D4E9D00A1715B /* 0.jpg in Resources */,
+				3E6AB139228D550D00A1715B /* 路径 1@2x.png in Resources */,
 				7476C4EE22872A2D00176179 /* Assets.xcassets in Resources */,
+				3E6AB122228D4E9D00A1715B /* 3.jpg in Resources */,
 				7476C4EC22872A2C00176179 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -477,9 +531,11 @@
 			files = (
 				7476C4F422872A2D00176179 /* main.m in Sources */,
 				7476C5362287367700176179 /* SCMailListViewController.m in Sources */,
+				3E6AB127228D4F2500A1715B /* SCHomeCell.m in Sources */,
 				7476C530228734CB00176179 /* SCBaseNavigationController.m in Sources */,
 				7476C53C228738DD00176179 /* UIBarButtonItem+FYExtension.m in Sources */,
 				7476C52B22872CBA00176179 /* SCBaseViewController.m in Sources */,
+				3E6AB118228D4BF500A1715B /* ATCarouselView.m in Sources */,
 				7476C4E622872A2C00176179 /* AppDelegate.m in Sources */,
 				3EA0A202228AA2F600666630 /* UIView+HNExtension.m in Sources */,
 				7476C52822872C7200176179 /* SCBaseTabBarController.m in Sources */,
